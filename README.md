@@ -158,11 +158,7 @@ screenshots/
 
 ## ⚙️ Installation
 
-### Clone Repository
 
-```bash
-git clone https://github.com/your-username/PlacementPortal.git
-```
 
 ### Navigate
 
@@ -194,11 +190,7 @@ mvn clean install
 mvn spring-boot:run
 ```
 
-Open
 
-```
-http://localhost:6969
-```
 
 ---
 
@@ -215,15 +207,19 @@ http://localhost:6969
 
 ---
 
-## 👥 Team Members
+## 👥 Project Team
 
-- Avinash Vadde
-- Chandra Sekhar Reddy
-- Chandu Gumpu
+### Developed and Customized By
+1. **Abhishek Shivam Jha**
+2. **Simran Shakya**
 
-Here the Live Link : 
-https://placement-portal-71em.onrender.com/
----
+### Project Information
+This project is developed and customized as a Final Year B.Tech Group Project. The team is responsible for its configuration, deployment, testing, documentation, and further enhancements.
+
+### Acknowledgement
+The project uses an existing open-source Placement Portal codebase as its starting point, which has been further configured and customized for this academic project.
+
+
 
 ## 🎯 Learning Outcomes
 
